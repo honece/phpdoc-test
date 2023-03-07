@@ -1,11 +1,6 @@
 {
     "name": "honece/phpdoc-test",
     "type": "project",
-    "autoload": {
-        "psr-4": {
-            "Honece\\PhpdocTest\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "honece",
