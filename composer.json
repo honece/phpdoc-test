@@ -1,16 +1,9 @@
 {
     "name": "honece/phpdoc-test",
-    "type": "project",
     "authors": [
         {
             "name": "honece",
             "email": "china_zhz@yeah.net"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/honece/composer-test"
         }
     ]
 }
