@@ -7,5 +7,10 @@
             "email": "china_zhz@yeah.net"
         }
     ],
-    "require": {}
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/honece/composer-test"
+        }
+    ]
 }
