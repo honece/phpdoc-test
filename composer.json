@@ -1,5 +1,6 @@
 {
     "name": "honece/phpdoc-test",
+    "type": "project",
     "authors": [
         {
             "name": "honece",
